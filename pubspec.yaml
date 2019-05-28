@@ -22,3 +22,12 @@ flutter:
 
   assets:
     - images/
+
+  fonts:
+    - family: MarDafoe
+      fonts:
+        - asset: fonts/MrDafoe-Regular.ttf
+
+    - family: AlfaSlabOne
+      fonts:
+          - asset: fonts/AlfaSlabOne-Regular.ttf
