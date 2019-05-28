@@ -26,11 +26,8 @@ class BallPage extends StatelessWidget {
             ),
           ),
         ),
-        body: Transform.rotate(
-          angle: -pi / 12.0,
-          child: SafeArea(
-            child: Ball(),
-          ),
+        body: SafeArea(
+          child: Ball(),
         ),
       ),
     );
